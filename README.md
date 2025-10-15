@@ -113,6 +113,9 @@ Bash
 Genera reportes que solo contengan los hallazgos más críticos para priorizar tus esfuerzos.
 Bash
 
+<img width="2334" height="940" alt="imagen" src="https://github.com/user-attachments/assets/82bf6d92-ea88-4917-958a-90b20ea16b7d" />
+
+
 # Para un reporte consolidado solo con vulnerabilidades HIGH y CRITICAL
 ./script.sh --consolidado --severidad HIGH,CRITICAL
 
