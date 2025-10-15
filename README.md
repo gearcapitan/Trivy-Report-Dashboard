@@ -99,7 +99,6 @@ Bash
 
 ./script.sh --consolidado
 
-(Graba un GIF corto de esta ejecución y súbelo para un README aún más dinámico)
 
 2. Escanear solo una imagen específica
 
