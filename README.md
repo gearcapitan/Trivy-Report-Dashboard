@@ -1,6 +1,6 @@
 🛡️ Trivy Report Dashboard: De Scans a Dashboards Ejecutivos
 
-    Transforma los crudos resultados JSON de Trivy en dashboards de seguridad HTML interactivos, modernos y profesionales con un solo comando.
+Transforma los crudos resultados JSON de Trivy en dashboards de seguridad HTML interactivos, modernos y profesionales con un solo comando.
 
 Este sistema no solo ejecuta los escaneos, sino que los enriquece, los organiza y los presenta en un formato listo para el análisis y la toma de decisiones. Es la solución perfecta para equipos de DevOps, seguridad y desarrollo que necesitan claridad y accionabilidad.
 
